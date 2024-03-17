@@ -6,7 +6,7 @@
 
 ### Muruganantham P
 <img src="https://github.com/SoftManiaTech/.github/blob/main/softmania%20team%20photos/muruganantham.png" alt="muruganantham" width="150" height="150"> <br/>
-**Position:** Splunk Enterprise Solutioning Expert @Softmania <br/>
+**Position:** Splunk Enterprise Solutioning Expert @SoftMania <br/>
 
 **Roles:** 
 - Client Consultation
