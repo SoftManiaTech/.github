@@ -1,8 +1,8 @@
-# Team Organization
+<img src="https://github.com/SoftManiaTech/.github/blob/main/softmania%20banner%20images/soft%20mania.png" alt="Image Description" style="width: 1000px; height: 300px;">
 
 ## Welcome to our team's GitHub repository, where you can find information about our team members.
 
-## Team Members
+<h2 align="center"> Team Members</h2>
 
 ### Muruganantham P
 <img src="https://github.com/SoftManiaTech/.github/blob/main/softmania%20team%20photos/muruganantham.png" alt="muruganantham" width="150" height="150"> <br/>
@@ -54,3 +54,5 @@
 ## How to Collaborate
 
 Feel free to reach out to any team member for collaboration or inquiries related to our projects.
+
+
