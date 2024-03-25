@@ -97,7 +97,6 @@
 <br/>
 <br/><br/> 
 
-## How to Collaborate
 <h1 align="center"> How to Collaborate 🙌</h1> <br/>
 Feel free to reach out to any team member for collaboration or inquiries related to our projects.
 
