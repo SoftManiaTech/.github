@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/SoftManiaTech/.github/main/softmania%20banner%20images/SoftMania_LOGO_TM.png" alt="Image Description" style="width: 1000px; height: 300px;"> <br/>                                          
+<img src="https://raw.githubusercontent.com/SoftManiaTech/.github/main/softmania%20banner%20images/SoftMania_LOGO_TM.png" alt="Image Description" style="width: 1000px; height: 100px;"> <br/>                                          
 
 # Welcome to our team's GitHub repository, where you can find information about our team members.
 ###### No matter how many documents , No matter how many tutorials, It is always practical knowledge that wins the Game. <br/><br/><br/>
