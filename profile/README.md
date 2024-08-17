@@ -46,7 +46,7 @@
 
 # Ramany M <br/>
 <img align="right" src="https://github.com/SoftManiaTech/.github/blob/main/softmania%20team%20photos/ramany.png" alt="ramany" width="300" height="300"> <br/>
-**Position:** Splunk Custom Dashboarding & Data Onboarding Engineer <br/>
+**Position:** Senior Trainer - Splunk Custom Dashboarding & Data Onboarding Engineer <br/>
 
 **Roles:** 
 - Senior Trainer
