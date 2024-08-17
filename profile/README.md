@@ -49,6 +49,7 @@
 **Position:** Splunk Custom Dashboarding & Data Onboarding Engineer <br/>
 
 **Roles:** 
+- Senior Trainer
 - Data Source Analysis
 - Data Collection and Ingestion
 - Performance Optimization
@@ -56,7 +57,7 @@
 `GITHUB    : ` - https://github.com/ramany-m <br/>
 `LINKEDIN  : ` - https://www.linkedin.com/in/ramany-muthusamy/ <br/>
 `INSTAGRAM : ` - https://www.instagram.com/ramany_tech/ <br/>
-`YOUTUBE   : ` - <br/>
+`YOUTUBE   : ` - https://www.youtube.com/@RamanyTech<br/>
 `EMAIL     : ` - ramany.muthusamy@gmail.com <br/>
 
   <br/>
